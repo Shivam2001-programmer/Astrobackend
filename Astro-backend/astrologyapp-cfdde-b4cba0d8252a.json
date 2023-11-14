@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "astrologyapp-cfdde",
+    "private_key_id": "b4cba0d8252a0db56a7ca55ebd14e52fc71440a2",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfg7hc0rOxAoJA\nyTpQ5aQEAb66EJtQJuI3mOdVuFhHOn6VA6v0hKiQ7xMuHCVOVFvEkKdQz0fML96p\nawbMGUl5CNL+wjdPgeNraT+h5XEjQeIWPOrjkhSTpJa+a7XgJZisX9K2bS4pyDWe\np+XLnd3Ep+hVWDKdoX1nHDtuhptnOW71igohoLfg2wWoR6DvHHyELOax/DnLcWhe\n6B7s2rQtHDNqLWK5lKruRLP0M0QbwJMY6K9EtN11P53bxZxIJyt6hJUT9AJEaQwz\nDzvvWKbqlrhAlPRHp3Dyt2ZJhJXdlo4VFyVNEQWcbrCRaGhAUvfOSPWsu/ea/deb\n+cRqlFSbAgMBAAECggEAH9kvzTCwee4TTZYf05kWF0q15vZ73BP3ZLxdq+rDjW0r\natsx0P9PnKhvPuyVsj77l5J+JY9NOYJxRYg98jA2UDknz3+9hV1cp8x6zPs/jJeR\n6Xi+OTOochYRlvFwfdFj2z7ClnPUHLmBoyzIn8/kQGh55dhXOsvMevLTFu0/R+uJ\n+xBdhtZ2keWhVCs5tArIv+LxPsLPwVCye12RGbuBbV9eUO5QHZiVzJ3LTyKpFThm\n+tnJ5FUsqjG+AJvM9omnJ6jB/MtBg1XNDCtkluPWpXZNTXuWDYvfwwZyRzhhsjUi\nXgHRfArspvk+5k0depngJ5xA509TYBz0875s4pfgeQKBgQDOJBtvaQcMwfw5ktR5\nlcNT3fYCNLCYnnZuoB2mZ8xk+w8ZvwrmNyIktalckLbj5bZY4EsSVeN/KY8s7ptg\n9Bc3bsZ7uULmltJ/wAgM2hkTjsI7u/aK0JoCm6P4tceL9J2GFRuxlacmj2EkXnMj\nSuSw+GHUOCQxRegd7esUx9V0NQKBgQDGGJS5S9eP60Zs4y2V0uluPwmyO/0Hg7hS\n3B3xYfcQUWW2pbP8XVbuR7ftJ8ajUbvPN/R74uHcdYyOYi70hKryyaLfUMSWlu0n\nFjm+NeSXOgEUB2OrUPFFlukQsSF74XGdaQ8VxV/hPoOA+lunc44w5PWeKtmneIJs\nfBUhSO4fjwKBgGwVLnVZwiKES3T8cX9WcNW2WViKu9UpsLsMJL+tSNPhdudu7Y4L\ndlF9FlG8ZshTFyq+X147vk5cQf+zE7DgCpQ79sHEPzmb9r6Ytx/V8rP4dArR4NCj\n0zxu0qiC1x+goD8/LggMiVmEb9Cb3Q6yI/pOIS0eSouzNaMLreh1ZovJAoGAUXa0\nWosk56uCd67pBS8KDetgimp/AMMbXv/kVGrMFmrS4Ey+eq7L3AukSKPN3UX0bR/+\nq5++8FFq7vbThny0bEmdcCaf4anJdwR91IoHKmWRIfJz+3S687o+uD2Pnok0lt4o\ndPSJHHD/1V+fp3ou5E6T72qBvYwiXoici+aY/mMCgYEAtZ/0RgAakUUsx1ScwiV7\nC9B+xXWLWMhzts/jYD22EWhTBX1gYtl/UOAuBeo1HR3K09vj8ezkVZDQh/gZbRgd\nWrmgb9oQQoB63Yw5Y0KJkdZbYJneIuJhV4l2VNZOBMVIQAONoXN9HcT/HJpEO+8h\nDyz1oS0mWPIv1jYAvyzDn4U=\n-----END PRIVATE KEY-----\n",
+    "client_email": "astrology-app-uploads@astrologyapp-cfdde.iam.gserviceaccount.com",
+    "client_id": "100673985874499309705",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/astrology-app-uploads%40astrologyapp-cfdde.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
